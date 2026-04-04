@@ -50,7 +50,7 @@ Contact
 
 - **Email**: muzamilmeerdev@gmail.com
 - **GitHub**: [@muzamilmeerdev](https://github.com/muzamilmeerdev)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/muzamil ahmad)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/muzamilahmad)
 
 ## 📄 License
 
