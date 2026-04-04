@@ -1,4 +1,4 @@
-# 🔐 Muzamil Meer - Cybersecurity 
+7# 🔐 Muzamil Meer - Cybersecurity 
 
 
 
@@ -50,7 +50,7 @@ Contact
 
 - **Email**: muzamilmeerdev@gmail.com
 - **GitHub**: [@muzamilmeerdev](https://github.com/muzamilmeerdev)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/muzamilahmad)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/muzamilahmadmir)
 
 ## 📄 License
 
