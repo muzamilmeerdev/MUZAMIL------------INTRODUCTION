@@ -10,7 +10,7 @@ const projects = [
     icon: ShoppingCart,
     color: 'from-purple-500 to-pink-500',
     tags: ['JavaScript', 'HTML', 'CSS'],
-    link: 'https://muzamilmeerdev.github.io/e-commerce/',
+    link: 'https://e-commerce-nxtz.vercel.app/',
   },
   {
     title: 'Weather App',
