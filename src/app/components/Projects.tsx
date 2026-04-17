@@ -18,7 +18,7 @@ const projects = [
     icon: Cloud,
     color: 'from-blue-500 to-cyan-500',
     tags: ['JavaScript', 'API', 'Web'],
-    link: 'https://muzamilmeerdev.github.io/weather-app/',
+    link: 'https://weather-app-xi-seven-49.vercel.app/',
   },
   {
     title: 'GitHub Profile',
