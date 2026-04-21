@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://muzamil-introduction.vercel.app/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/about</loc>
+    <loc>https://muzamil-introduction.vercel.app/about</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/projects</loc>
+    <loc>https://muzamil-introduction.vercel.app/projects</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://muzamil-introduction.vercel.app/contact</loc>
     <priority>0.8</priority>
   </url>
 
